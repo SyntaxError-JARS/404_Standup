@@ -20,4 +20,11 @@ riya
 excited
 react
 catching up on videos 
-also working on api and it going good 
+also working on api and it going good
+
+
+Soyoung
+excited
+Seeing how to build front end with using react
+not excited
+forgetting most of thing from p0 , feeling like really need to wactching all previous lecture.
