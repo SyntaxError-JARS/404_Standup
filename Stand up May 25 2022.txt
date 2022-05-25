@@ -25,6 +25,6 @@ also working on api and it going good
 
 Soyoung
 excited
-Seeing how to build front end with using react
+Seeing how to build front end with using react and love to imagine how to build p1 with that.
 not excited
-forgetting most of thing from p0 , feeling like really need to wactching all previous lecture.
+forgetting most of setup part from p0 , really need to digging and wactching all p0 lecture videos.
