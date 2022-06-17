@@ -5,11 +5,9 @@ The group consists of:
 
 - Riya Parajuli
 
-- Rick Figueroa
+- Kenyatta Martin
 
 - Romane Robb
-
-- Matthew Swaney
 
 - Soyoung Lee
 
